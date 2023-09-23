@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <ul>
     <li><a href="https://github.com/kevinli7377/COMS4735_project">Visual Interface: Estimating volumes of colored liquids in transparent, colorless, rotationally symmetric containers </a></li>
 </ul>
-<!-- You can list some of your significant projects here with brief descriptions and links -->
 
 <h2>📘 Personal Design/Architecture Project Portfolio</h2>
 <ul>
