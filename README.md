@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <h2>📘 Personal Design/Architecture Project Portfolio</h2>
 <ul>
   <li><a href="https://www.kevinlidesigns.com" target="_blank" rel="noopener noreferrer">Link to personal design website</a></li>
+  <li><a href="https://www.kevinlidesigns.com/lifa" target="_blank" rel="noopener noreferrer">LIFA: Medication Tracking Device for the Elderly</a></li>
+  <li><a href="https://www.kevinlidesigns.com/pill-x" target="_blank" rel="noopener noreferrer">Pill-X: Prescription Collection Service</a></li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
