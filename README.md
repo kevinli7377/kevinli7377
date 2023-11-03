@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/kevinli7377/COMS4735_project">Visual Interface: Estimating volumes of colored liquids in transparent, colorless, rotationally symmetric containers </a></li>
 </ul>
 
-<h2>📘 Personal Design/Architecture Project Portfolio</h2>
+<h2>📘 Personal Design Project Portfolio</h2>
 <ul>
   <li><a href="https://www.kevinlidesigns.com" target="_blank" rel="noopener noreferrer">Link to personal design website</a></li>
   <li><a href="https://www.kevinlidesigns.com/lifa" target="_blank" rel="noopener noreferrer">LIFA: Medication Tracking Device for the Elderly</a></li>
