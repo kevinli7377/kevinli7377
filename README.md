@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <span>Currently pursuing my M.S. in Computer Science at Columbia University, I have an extensive background in Design, Architecture, and Computer Science. Passionate about exploring the confluence of design and technology, I'm always eager to innovate and create</span>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 <ul>
     <li><a href="https://github.com/MrDavidRios/snug-slug">Snug Slug: The trusted subleasing platform for our Columbia University community.</a></li>
 </ul>
