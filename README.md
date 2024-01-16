@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
+    <li><a href="https://github.com/MrDavidRios/snug-slug">Snug Slug: The trusted subleasing platform for our Columbia University community."</a></li>
+</ul>
+<ul>
     <li><a href="https://github.com/kevinli7377/COMS4735_project">Visual Interface: Estimating volumes of colored liquids in transparent, colorless, rotationally symmetric containers </a></li>
 </ul>
 
