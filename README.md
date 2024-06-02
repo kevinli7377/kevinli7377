@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Kevin!👋</h1>
 
-<span>Currently pursuing my M.S. in Computer Science at Columbia University, I have an extensive background in Design, Architecture, and Computer Science. Passionate about exploring the confluence of design and technology, I'm always eager to innovate and create</span>
+<span>Currently pursuing my M.S. in Computer Science at Columbia University, I have an extensive background in Design, Architecture, and Computer Science. Passionate about exploring the confluence of design and technology, I'm always eager to innovate and create.</span>
 
 <h2>👨‍💻 Software Development Projects</h2>
 <ul>
