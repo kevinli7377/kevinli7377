@@ -23,6 +23,8 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/MrDavidRios/3dui-ar-final-project">SmashIT: VR rage room application developed on Unity for Meta Quest 2/3</a></li>
 </ul>
 <ul>
+    <li><a href="https://github.com/kevinli7377/AppliedCVFinalProject">Vision-based Ingredient Detection and Recipe Recommendation System</a></li>
+<ul>
     <li><a href="https://github.com/MrDavidRios/snug-slug">Snug Slug: The trusted subleasing platform for our Columbia University community.</a></li>
 </ul>
 <ul>
