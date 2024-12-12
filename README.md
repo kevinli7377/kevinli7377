@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Software Development Projects</h2>
 <ul>
+    <li><a href="https://codelium.vercel.app">Codelium: The AI-powered solution to help you understand your codebase</a></li>
+</ul>
+<ul>
     <li><a href="https://github.com/MrDavidRios/3dui-ar-final-project">SmashIT: VR rage room application developed on Unity for Meta Quest 2/3</a></li>
 </ul>
 <ul>
